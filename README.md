@@ -22,7 +22,7 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 - Created AWS RDS and S3 bucket. 
 ![rds](images/aws_rds.png)
 ![s3](images/s3_bucket.png)
-- Set up server connection, and created production-ready tables in PostgreSQL/pgAdmin. 
+- Set up server connection to RDS, and created production-ready tables in pgAdmin. 
 ![postgres](images/postgresql_pgadmin.png)
 - Created DataFrames to match tables from two Amazon customer review datasets with over 1.5M rows.
 - Extracted** datasets into Google Colab
