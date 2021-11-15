@@ -42,5 +42,5 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 ## Findings
 37.4% of five-star reviews are among reviewers that are not part of the Vine program, whereas 57.5% of five-star reviews are from reviewers that are Vine members. This shows that there is a positivity bias for reviews from Vine members, likely due to free products provided by Amazon in return for their review.
 
-Given more time, I would also anlalyze statistical distributions like mean, median and mode of the star rating across Vine program segments. 
+Given more time, I would also analyze statistical distributions like mean, median and mode of the star rating across Vine program segments. 
 
