@@ -34,7 +34,7 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 
 ## Results
 5-star Reviews From member Vine Reviewers
-1[paid reviews](images/paid_reviews.png)
+![paid reviews](images/paid_reviews.png)
 
 5-star Reviews non-member Vine Reviewers
 ![unpaid reviews](images/unpaid_reviews.png)
